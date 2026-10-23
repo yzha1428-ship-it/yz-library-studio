@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Jane Austen",
+    "birthYear": 1775,
+    "famousWorks": [
+      { "id": "austen-1", "title": "Pride and Prejudice" },
+      { "id": "austen-2", "title": "Sense and Sensibility" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "George Orwell",
+    "birthYear": 1903,
+    "famousWorks": [
+      { "id": "orwell-1", "title": "1984" },
+      { "id": "orwell-2", "title": "Animal Farm" }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Agatha Christie",
+    "birthYear": 1890,
+    "famousWorks": [
+      { "id": "christie-1", "title": "Murder on the Orient Express" },
+      { "id": "christie-2", "title": "Death on the Nile" }
+    ]
+  }
+]

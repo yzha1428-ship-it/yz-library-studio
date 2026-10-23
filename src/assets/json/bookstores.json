@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "City Library Bookshop",
+    "suburb": "Melbourne"
+  },
+  {
+    "id": 2,
+    "name": "Carlton Community Books",
+    "suburb": "Carlton"
+  },
+  {
+    "id": 3,
+    "name": "Riverside Reading Room",
+    "suburb": "Richmond"
+  }
+]
